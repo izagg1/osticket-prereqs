@@ -334,4 +334,4 @@ Click OK.
 Congratulations, you have made it to the end of this part of the tutorial! Now keep the VM and osTicket open, then move on to the post installation setup tutorial.
 The link to that tutorial is linked below.
 
-- [osTicket: Post-Installation Configuration](https://github.com/jacksonmalms/post-install-config)
+- [osTicket: Post-Installation Configuration](https://github.com/izagg1/post-install-config)
